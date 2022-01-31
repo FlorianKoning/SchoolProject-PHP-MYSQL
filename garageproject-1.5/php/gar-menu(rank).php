@@ -36,7 +36,7 @@
 </div>
 
 
-<!-- Menu List 1 -->
+<!-- Menu List Klant -->
 <div class="container">
 <div class="klant">
   <div class="list-group">
@@ -50,7 +50,7 @@
   <a href="gar-delete-klant1.php" class="list-group-item list-group-item-action">delete</a>
   </div>
 </div>
-<!-- Menu List 2 -->
+<!-- Menu List Auto -->
 <div class="auto">
   <div class="list-group">
     <a href="#" class="list-group-item list-group-item-action Myactive" aria-current="true">
